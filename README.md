@@ -1,3 +1,5 @@
 # ACM-ICPC-Algorithm-Template
-Sinh vi®∫n i hc Trung Quc tham gia cuc thi ICPC  tng kt c®¢c mu thut to®¢n, v®¨ thi gian hc ting Vit ca ngi dch qu®¢ ngn, tr®¨nh  hn ch, kh®Æ tr®¢nh khi c®¢c li, vui l®∞ng gi ISSUS.
+C√°c m·∫´u thu·∫≠t to√°n ƒë∆∞·ª£c sinh vi√™n ƒë·∫°i h·ªçc Trung Qu·ªëc t·ªïng h·ª£p khi tham gia cu·ªôc thi ICPC.
+
+V√¨ ng∆∞·ªùi d·ªãch h·ªçc ti·∫øng Vi·ªát th·ªùi gian qu√° ng·∫Øn n√™n s·∫Ω c√≥ nhi·ªÅu sai s√≥t. Vui l√≤ng g·ª≠i ISSUS.
 
